@@ -11,7 +11,9 @@
 
     <body>
         <?php require "cp/pLogin.php" ?>
-        <?php //prueba1 ?>
-        <?php //prueba2 ?>
+        <?php //CHÁVEZ CACHAY, JORGE FRANCISCO ?>
+        <?php //HIDALGO ESTRELLA, LUIS AUGUSTO ?>
+        <?php //LA MADRID BONIFACIO, JAIME ALEXIS ?>
+        <?php //PRECIADO CARRASCO, BRAYAN ?>
     </body>
 </html>
